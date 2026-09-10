@@ -1,0 +1,1 @@
+console.log("Hello World! Development environment is ready.");
